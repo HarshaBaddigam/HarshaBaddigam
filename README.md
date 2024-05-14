@@ -11,7 +11,7 @@ Passionate and highly motivated cybersecurity professional with a strong educati
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Splunk Implementation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Analysis a Pcap</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Analysis of a Pcap</a>|
 | Pentesting                                    | Pentesting a Firm|
 
 
