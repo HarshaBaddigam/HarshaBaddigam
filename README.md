@@ -56,9 +56,13 @@ Passionate and highly motivated cybersecurity professional with a strong educati
 <div>
     <img src="https://img.shields.io/badge/-EC--Council_CEH-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autodesk_Fusion_360_Certified_User-FF6B00?&style=for-the-badge&logo=Autodesk&logoColor=white" />
 </div>
 
 ## Projects
 - 3DPrinting Order Management System
 - Penetration Testing a Firm
 - Forensic Investigation
+
+## Hobbies
+- 3D Modeling and 3D Printing
