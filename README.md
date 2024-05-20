@@ -10,9 +10,10 @@ Passionate and highly motivated cybersecurity professional with a strong educati
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Splunk Implementation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Analysis of a Pcap</a>|
+| SIEM Implementation and Log Analysis          | Splunk Implementation|
+| Network Traffic Monitoring and Attack Detection |Analysis of a Pcap|
 | Pentesting                                    | Pentesting a Firm|
+| Security Events | <a href="https://github.com/HarshaBaddigam/Security-Events/">Social Engineering</a> |
 
 
 ## Tools
